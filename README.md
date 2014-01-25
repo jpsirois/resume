@@ -1,5 +1,5 @@
 # Jean-Philippe Sirois — Web Developer
-[http://jpsirois.com][1]
+http://jpsirois.com
 
 ## Profile _(in-progress)_
 I’m an [](http://www.apple.com/), [Wikipedia](http://www.wikipedia.org/), Hardware, Electronics, Photography, [Beer](https://untappd.com/user/jpsirois), Coffee, Food, [R/C](http://en.wikipedia.org/wiki/Radio-controlled_car) & Woodworking fan/geek/addict ッ
