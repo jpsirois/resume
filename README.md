@@ -37,14 +37,18 @@ I’m an [](http://www.apple.com/), [Wikipedia](http://www.wikipedia.org/), H
 * PostgreSQL
 * MongoDB
 
-### Design & UX
-* [Photoshop](http://www.adobe.com/products/photoshop.html)
-* [Sketch](http://www.bohemiancoding.com/sketch/)
-* User Experience
+### Other Technical
+* Capistrano
+* Docker
 
 ### SCM 
 * [Git](http://git-scm.com/)
 * SVN
+
+### Design & UX
+* [Photoshop](http://www.adobe.com/products/photoshop.html)
+* [Sketch](http://www.bohemiancoding.com/sketch/)
+* User Experience
 
 ## Experience _(in-progress)_
 * [**Freelance**](http://jpsirois.com) — Web Developer [04-2013 - *today*]
