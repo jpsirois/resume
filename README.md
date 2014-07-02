@@ -1,10 +1,10 @@
 # Jean-Philippe Sirois — Web Developer
 http://jpsirois.com
 
-## Profile _(in-progress)_
+## Profile
 I’m an [](https://www.flickr.com/photos/jpsirois/14371437838/in/photostream/), [Wikipedia](http://www.wikipedia.org/), [Hardware - Electronics](https://www.flickr.com/photos/jpsirois/9294713049/), [Beer](https://untappd.com/user/jpsirois), [Coffee](http://instagram.com/p/JcMkPBxisd/), [Food](https://www.flickr.com/photos/jpsirois/sets/72157633686952238/), [Porsche](http://www.pinterest.com/jpsirois/porsche/), [Fishing](https://www.flickr.com/photos/jpsirois/14371354050/), [Lego](https://www.flickr.com/photos/jpsirois/9685526627/) & [R/C](https://www.flickr.com/photos/jpsirois/8827960068/in/set-72157633685392262) fan/geek/addict ッ
 
-## Skills _(in-progress)_
+## Skills
 
 ### Frontend
 * HTML
