@@ -50,13 +50,13 @@ I’m an [](https://www.flickr.com/photos/jpsirois/14371437838/in/photostream
 * [Sketch](http://www.bohemiancoding.com/sketch/)
 * User Experience
 
-## Experience _(in-progress)_
+## Experiences
 * [**Freelance**](http://jpsirois.com) — Web Developer [04-2013 - *today*]
 * [**GoFellow**](http://gofellow.com) — Co-founder & Frontend lead [04-2012 - *today*]
 * [**Makéa**](http://makea.ca) _(french)_ — Technical Advisor [2011 – *today*]
-* [**Myca Health Inc.**](http://myca.com) — Frontend Web Developer [11-2012 - 03-2013]
+* [**Myca Health**](http://myca.com) — Frontend Web Developer [11-2012 - 03-2013]
 * [**iXmédia**](http://ixmedia.com) _(french)_ — Lead Frontend Web Developer [12-2009 - 11-2012]
-* [**Web à Québec**](http://webaquebec.org) _(french)_ — Logistics & Technics Coordinator [11-2010 - 12-2011]
+* [**Web à Québec _(volunteering)_**](http://webaquebec.org) _(french)_ — Logistics & Technics Coordinator [11-2010 - 12-2011]
 * [**Université Laval**](http://ulaval.ca) — Frontend Web Developer [11-2008 - 12-2009]
 * **Ogive impact créatif** — Web Developer [03-2007 - 11-2008]
 
